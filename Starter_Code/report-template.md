@@ -1,8 +1,4 @@
-# Module_12_Challenge
-FTBC Module 12: Supervised Learning
-
-
-# Analysis Report
+# Module 12 Report Template
 
 ## Overview of the Analysis
 
