@@ -76,3 +76,23 @@ avg / total       0.99      0.99      0.99      0.99      0.99      0.99     193
 ## Summary
 
 Most performance indicators improved in the resampled data model as compared to the original one. Accuracy is higher (95.20% vs. 99.37%), the confusion matrix's false positives are better (0.30% vs. 0.02%), but the false negatives are still roughly equal (18.12% vs. 18.86%). This is reflected in the precision metric within the classification report (0.85 vs. 0.84), which leads to the conclusion that neither model sufficiently predicted the 'y' target column's test values.
+
+---
+
+## Technology
+
+This application was written in Python 3.9.4 .
+
+## Contributors
+
+Brought to you by E. Kenny for FinTech Lender X.
+
+ekenny3@uncc.edu
+
+https://www.linkedin.com/in/e-kenny/
+
+## License
+
+MIT
+
+License included in repository.
